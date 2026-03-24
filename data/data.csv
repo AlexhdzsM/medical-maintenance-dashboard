@@ -1,0 +1,16 @@
+equipment_id,equipment_type,failure_date,repair_date,failure_type,priority,technician,downtime_hours,cost
+EQ001,Monitor,2024-01-10,2024-01-11,Electrical,High,Juan,12,500
+EQ002,Ventilator,2024-01-12,2024-01-15,Mechanical,Medium,Ana,36,1200
+EQ003,Infusion Pump,2024-01-13,2024-01-13,Software,Low,Carlos,4,200
+EQ004,Monitor,2024-01-14,2024-01-16,Electrical,High,Juan,48,1500
+EQ005,X-Ray,2024-01-15,2024-01-18,Mechanical,High,Ana,72,3000
+EQ006,Monitor,2024-01-16,2024-01-16,Calibration,Low,Carlos,2,100
+EQ007,Ventilator,2024-01-17,2024-01-19,Electrical,High,Juan,30,900
+EQ008,Infusion Pump,2024-01-18,2024-01-18,Software,Low,Ana,3,150
+EQ009,X-Ray,2024-01-19,2024-01-22,Mechanical,High,Carlos,60,2500
+EQ010,Monitor,2024-01-20,2024-01-21,Electrical,Medium,Juan,10,400
+EQ011,Ventilator,2024-01-21,2024-01-23,Mechanical,High,Ana,40,1300
+EQ012,Infusion Pump,2024-01-22,2024-01-22,Software,Low,Carlos,2,120
+EQ013,X-Ray,2024-01-23,2024-01-25,Electrical,High,Juan,50,2000
+EQ014,Monitor,2024-01-24,2024-01-24,Calibration,Low,Ana,1,80
+EQ015,Ventilator,2024-01-25,2024-01-28,Mechanical,High,Carlos,55,1700
