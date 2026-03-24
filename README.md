@@ -49,9 +49,9 @@ El dashboard permite identificar rápidamente qué equipos representan mayor pro
 ---
 
 ## 📊 Visualizaciones
-![Dataset](images/1.png)
+![Dataset](images/1.PNG)
 
-![Filtro y metricas](images/2.png)
+![Filtro y metricas](images/2.PNG)
 
-![Tipos de fallas, insigth y costo vs downtime](images/3.png)
+![Tipos de fallas, insigth y costo vs downtime](images/3.PNG)
 
